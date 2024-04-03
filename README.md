@@ -3,6 +3,8 @@
 
 Данные материалы созданы в рамках [Лабораторной работы курса архитектуры ЭВМ](https://docs.google.com/document/d/1OeMx3kqlnsPXvEM71ERs5s8lm9Wqhu8WCjLSyzdhr3o/edit).
 
-**Версии:** iverilog-v12-20220611, logisim-evolution v3.8.0.
+Для запуска тестов можно использовать: `iverilog -g2012 -o {output_filename} stack_behaviour_tb.sv`
 
 ![image of main stack scheme in logisim](stack.png)
+
+**Версии:** iverilog-v12-20220611, logisim-evolution v3.8.0.
